@@ -91,7 +91,7 @@ images/     → Dashboard visuals
 
 - Add Party & Performance analysis page
 - Drill-through functionality for MPs
-- Trend analysis (if time-series data available)
+- Trend analysis
 - Advanced KPI comparison (state vs national)
 
 ---
