@@ -1,16 +1,13 @@
 # 📊 Power BI Dashboard
 
-This folder describes the dashboard created using Power BI.
-
-⚠️ Dashboard file (.pbix) is not included due to restrictions.
+⚠️ Dashboard file (.pbix) is not included.
 
 ## Features
 
 - Shape Map (India)
-- MP distribution by state
-- Image-based MP table
-- Filters by party and state
+- KPI summary
+- MP-level analysis with images
 
 ## Screenshots
 
-See `images/` folder for visuals.
+See images/ folder
