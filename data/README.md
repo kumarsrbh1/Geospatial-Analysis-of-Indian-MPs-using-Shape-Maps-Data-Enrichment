@@ -1,15 +1,14 @@
 # 📂 Data Folder
 
-This folder contains all datasets used in the project.
+⚠️ Dataset is not included due to sharing restrictions.
 
-## Structure
+## Description
 
-- raw/
-  - Original dataset from PRS India
+The dataset contains information about Members of Parliament (MPs), including:
+- Name
+- Party
+- State
 
-- processed/
-  - Dataset after data augmentation (added image links)
+## Note
 
-## Notes
-
-Processed data is used as input for Power BI dashboard.
+Processed dataset includes image URLs generated through web scraping.
