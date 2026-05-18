@@ -1,14 +1,12 @@
-# 🖼️ Images
+# 🖼️ Dashboard Screenshots
 
-This folder contains exported visuals from the Power BI dashboard.
+Contains visuals from the Power BI dashboard.
 
-## Examples
+## Included
 
-- Shape Map (India)
-- MP Image Table
-- Dashboard overview
+- Geospatial Overview
+- MP Analysis
 
 ## Purpose
 
-- Enhance project presentation
-- Provide visual proof of analysis
+To demonstrate dashboard functionality without sharing the actual file.
