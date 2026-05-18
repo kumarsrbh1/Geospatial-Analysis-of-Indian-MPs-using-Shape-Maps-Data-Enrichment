@@ -1,20 +1,19 @@
-# 📓 Notebooks
+# 📓 Notebook
 
-Contains Jupyter notebooks used for data processing.
+Contains data processing and scraping logic.
 
-## Included
+## File
 
-- mp_profile_image_scraper.ipynb
+mp_profile_image_scraper.ipynb
 
-## Description
+## Purpose
 
-This notebook performs:
+- Clean MP names
+- Handle inconsistent URL patterns
+- Extract images using DOM parsing
+- Generate enriched dataset
 
-- Data augmentation using web scraping
-- Name normalization and URL generation
-- DOM inspection and CSS selector-based extraction
-- Handling inconsistent URLs using manual mapping
+## Key Learning
 
-## Output
-
-- MPwithImageLink.csv
+- Real-world scraping requires hybrid approaches
+- DOM inspection is essential
