@@ -59,10 +59,10 @@ The dashboard focuses on:
 ## 📷 Dashboard Screenshots
 
 ### 🔹 Geospatial Overview
-images/geospatial_overview.png
+![Geospatial Overview](images/geospatial_overview.png)
 
 ### 🔹 MP Analysis
-images/mp_analysis.png
+![MP Analysis](images/mp_analysis.png)
 
 ---
 
